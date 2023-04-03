@@ -1,0 +1,73 @@
+
+[
+    {
+        "id": 1,
+        "name": "Basic",
+        "price": 25,
+        "features": [
+            "Cardio",
+            "Weights"
+        ]
+    },
+    {
+        "id": 2,
+        "name": "Bronze",
+        "price": 35,
+        "features": [
+            "Cardio",
+            "Weights",
+            "Group Fitness"
+        ]
+    },
+    {
+        "id": 3,
+        "name": "Silver",
+        "price": 45,
+        "features": [
+            "Cardio",
+            "Weights",
+            "Group Fitness",
+            "Personal Training"
+        ]
+    },
+    {
+        "id": 4,
+        "name": "Gold",
+        "price": 55,
+        "features": [
+            "Cardio",
+            "Weights",
+            "Group Fitness",
+            "Personal Training",
+            "Tanning"
+        ]
+    },
+    {
+        "id": 5,
+        "name": "Platinum",
+        "price": 75,
+        "features": [
+            "Cardio",
+            "Weights",
+            "Group Fitness",
+            "Personal Training",
+            "Tanning",
+            "Sauna"
+        ]
+    },
+    {
+        "id": 6,
+        "name": "Diamond",
+        "price": 100,
+        "features": [
+            "Cardio",
+            "Weights",
+            "Group Fitness",
+            "Personal Training",
+            "Tanning",
+            "Sauna",
+            "24/7 Access",
+            "Massages"
+        ]
+    }
+]
