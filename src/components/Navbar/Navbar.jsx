@@ -24,7 +24,7 @@ const Navbar = () => {
                 } </span>
 
             </div>
-            <ul className={`md:flex bg-sky-300 rounded-lg absolute md:static duration-700 md:duration-0 px-6 py-5 -400 md:p-4 ${open?'top-6':'-top-48'}`}>
+            <ul className={`md:flex  bg-sky-300 rounded-lg absolute md:static duration-700 md:duration-0 px-10 mx-6 py-5 -400 md:p-4 ${open?'top-6':'-top-48'}`}>
                 {
                     routes.map(route => <Link key={route.id} route={route}></Link> )
                 }
