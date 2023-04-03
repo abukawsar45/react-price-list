@@ -11,7 +11,7 @@ const PriceList = () => {
     },[])
     return (
         <div>
-            <h4 className='text-4xl text-center bg-purple-400 indigo-400 text-amber-300 font-bold'>Awesome Affordable Prices</h4>
+            <h4 className='text-4xl text-center py-8  bg-purple-400 indigo-400 text-amber-300 font-bold'>Awesome Affordable Prices</h4>
             <div className="grid md:grid-cols-3 gap-3">
                 {
                     getData.map((data) => <PriceCard key={data.id} data={data} />)

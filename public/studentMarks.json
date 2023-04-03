@@ -1,0 +1,86 @@
+[
+    {
+        "id": 1,
+        "name": "John Doe",
+        "bangla": 85,
+        "english": 92,
+        "math": 78
+    },
+    {
+        "id": 2,
+        "name": "Jane Smith",
+        "bangla": 90,
+        "english": 87,
+        "math": 91
+    },
+    {
+        "id": 3,
+        "name": "Bob Johnson",
+        "bangla": 76,
+        "english": 83,
+        "math": 79
+    },
+    {
+        "id": 4,
+        "name": "Sara Lee",
+        "bangla": 94,
+        "english": 89,
+        "math": 95
+    },
+    {
+        "id": 5,
+        "name": "Tom Brown",
+        "bangla": 81,
+        "english": 77,
+        "math": 84
+    },
+    {
+        "id": 6,
+        "name": "Emily Davis",
+        "bangla": 87,
+        "english": 91,
+        "math": 88
+    },
+    {
+        "id": 7,
+        "name": "Chris Evans",
+        "bangla": 82,
+        "english": 85,
+        "math": 79
+    },
+    {
+        "id": 8,
+        "name": "Megan Fox",
+        "bangla": 89,
+        "english": 92,
+        "math": 85
+    },
+    {
+        "id": 9,
+        "name": "Alex Kim",
+        "bangla": 78,
+        "english": 86,
+        "math": 81
+    },
+    {
+        "id": 10,
+        "name": "Jessica Chen",
+        "bangla": 92,
+        "english": 95,
+        "math": 94
+    },
+    {
+        "id": 11,
+        "name": "David Lee",
+        "bangla": 85,
+        "english": 88,
+        "math": 87
+    },
+    {
+        "id": 12,
+        "name": "Amy Nguyen",
+        "bangla": 79,
+        "english": 81,
+        "math": 82
+    }
+]

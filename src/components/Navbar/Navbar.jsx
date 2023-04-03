@@ -15,16 +15,16 @@ const routes = [
 const Navbar = () => {
     const [open, setOpen] = useState(false)
     return (
-        <nav className='bg-sky-300'>
+        <nav className='bg-sky-300 px-5'>
             <div onClick={() => setOpen(!open)} className='md:hidden inline-block'>
                 <span>{open ?
-                    <XMarkIcon className="h-6 w-6 text-blue-500" />
+                    <XMarkIcon className="h-6 w-6 text-black-500" />
                     :
-                    <Bars3Icon className="h-6 w-6 text-blue-500" />
+                    <Bars3Icon className="h-6 w-6 text-black-500" />
                 } </span>
 
             </div>
-            <ul className={`md:flex absolute md:static duration-700 md:duration-0 px-6 py-5 bg-neutral-400 md:p-4 ${open?'top-6':'-top-48'}`}>
+            <ul className={`md:flex bg-sky-300 rounded-lg absolute md:static duration-700 md:duration-0 px-6 py-5 -400 md:p-4 ${open?'top-6':'-top-48'}`}>
                 {
                     routes.map(route => <Link key={route.id} route={route}></Link> )
                 }

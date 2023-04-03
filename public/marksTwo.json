@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1,
+        "name": "John Doe",
+        "arabic": 75,
+        "math": 82
+    },
+    {
+        "id": 2,
+        "name": "Jane Smith",
+        "arabic": 90,
+        "math": 91
+    },
+    {
+        "id": 3,
+        "name": "Bob Johnson",
+        "arabic": 80,
+        "math": 76
+    },
+    {
+        "id": 4,
+        "name": "Sara Lee",
+        "arabic": 92,
+        "math": 95
+    },
+    {
+        "id": 5,
+        "name": "Tom Brown",
+        "arabic": 88,
+        "math": 84
+    },
+    {
+        "id": 6,
+        "name": "Emily Davis",
+        "arabic": 85,
+        "math": 88
+    },
+    {
+        "id": 7,
+        "name": "Chris Evans",
+        "arabic": 81,
+        "math": 79
+    },
+    {
+        "id": 8,
+        "name": "Megan Fox",
+        "arabic": 87,
+        "math": 85
+    },
+    {
+        "id": 9,
+        "name": "Alex Kim",
+        "arabic": 76,
+        "math": 81
+    },
+    {
+        "id": 10,
+        "name": "Jessica Chen",
+        "arabic": 95,
+        "math": 94
+    }
+]
